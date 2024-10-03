@@ -1,0 +1,16 @@
+class Musica {
+    nome
+    artista
+    tempoDuracaoMin
+    genero
+    album
+    
+}
+
+object "<u>Como Os Nossos Pais:Musica</u>" as ComoOsNossosPais {
+    nome: "Como os nossos pais"
+    artista: "Elis Regina"
+    tempoDuracaoMin: 4
+    genero: "mpb"
+    album: "aluscinacao"
+}

@@ -1,0 +1,11 @@
+class Instrumento {
+    nome 
+    tipo 
+    origem
+}
+
+object "<u>Piano: Instrumento</u>" as Piano {
+    nome: "Piano"
+    tipo: "Corda"
+    origem: "Italia"
+}

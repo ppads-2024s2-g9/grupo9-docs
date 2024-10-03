@@ -1,0 +1,15 @@
+class Artista {
+    nome 
+    anoNascimento 
+    nomeArtistico 
+    generoMusical
+    nacionalidade 
+}
+
+object "<u>Elis Regina: Artista</u>" as Elis Regina {
+    nome: "Elis Regina"
+    anoNascimento: 1945
+    nomeArtistico: "Elis Regina"
+    generoMusical: "mpb"
+    nacionalidade: "brasileira"
+}
